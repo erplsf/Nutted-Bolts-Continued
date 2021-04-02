@@ -1,0 +1,41 @@
+{
+    "aluminum": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 5
+        },
+        "clusterSize": 4,
+        "numClusters": 7,
+        "minHeight": 44,
+        "maxHeight": 62,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "highaluminum": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 5
+        },
+        "clusterSize": 4,
+        "numClusters": 7,
+        "minHeight": 104,
+        "maxHeight": 262,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+
+}

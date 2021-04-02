@@ -1,0 +1,25 @@
+[
+  {
+    "address": "irc.esper.net",
+    "serverPassword": "",
+    "nick": "BreakinNutsNBolts",
+    "charset": "UTF-8",
+    "isRedirect": false,
+    "isSSL": false,
+    "nickserv": {
+      "username": "BreakinNutsNBolts",
+      "password": "WantSomeRelay4Breakin2Day"
+    },
+    "channels": [
+      {
+        "name": "#BreakinBlocks"
+      }
+    ],
+    "bot": {
+      "botProfile": "Server"
+    },
+    "settings": {
+      "autoJoin": true
+    }
+  }
+]
